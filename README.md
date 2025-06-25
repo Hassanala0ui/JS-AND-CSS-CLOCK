@@ -1,6 +1,6 @@
 # JS + CSS Clock
 
-Ce projet est une horloge analogique réalisée avec JavaScript et CSS, inspirée du challenge JavaScript30.
+Ce projet est une horloge analogique réalisée avec JavaScript et CSS
 
 ## Fonctionnalités
 
